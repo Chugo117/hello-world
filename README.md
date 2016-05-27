@@ -1,2 +1,3 @@
 # hello-world
-hello
+hello my name is Mario
+Im learning how to code and id love some help.
